@@ -42,8 +42,3 @@ This document provides an overview of the core features, technical requirements,
 - **Security**: Encryption, firewalls, rate limiting
 - **Performance**: Caching (Redis), optimized queries
 - **Testing**: Unit, integration, and automated API testing
-
-## Diagram
-
-![Airbnb Backend Features](features-and-functionalities.png)
-
